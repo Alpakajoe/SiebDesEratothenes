@@ -7,3 +7,7 @@ Bereits angewandte Methoden:
 * add
 * commit (-m)
 * push
+* status
+* pull
+* rm
+* log 
