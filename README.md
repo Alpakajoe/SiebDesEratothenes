@@ -11,3 +11,6 @@ Bereits angewandte Methoden:
 * pull
 * rm
 * log 
+* diff
+* config --global user.email "example@email.com"
+* config --global user.name "exampleName"
